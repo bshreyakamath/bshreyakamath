@@ -1,16 +1,76 @@
-## Hi there 👋
+# Shreya Kamath 
 
-<!--
-**bshreyakamath/bshreyakamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence & Machine Learning Student | Full-Stack Development
 
-Here are some ideas to get you started:
+I am a AIML student with an interest in building practical
+software and AI-driven applications. I enjoy working with Python,
+web technologies, and machine learning while continuously improving
+my problem-solving and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 AIML student
+- 💻 Interested in AI/ML and Full-Stack Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🔨 Building projects to strengthen my skills
+- 📚 Currently exploring Machine Learning and Full-Stack Development
+
+
+## Tech Stack
+
+**Languages**
+
+`Python` `C` `Java`
+
+**Web & Backend**
+
+`HTML` `CSS` `JavaScript` `Flask`
+
+**Database & Tools**
+
+`SQLite` `Git` `GitHub`
+
+**AI / ML**
+
+`PyTorch` `Transformers` `Whisper` `NLP`
+`Deep Learning` `Speech Recognition` `Text Summarization`
+
+## Featured Projects
+
+### Tutelaris
+
+A safety-focused web application designed with features for
+emergency assistance, safe routes, and other personal safety tools.
+
+**Tech Stack:** Python · Flask · SQLite · HTML · CSS · JavaScript ·
+gTTS · Werkzeug · python-dotenv
+
+### ConnectGram Social Media Project
+
+A Flask and SQLite-based social media application featuring
+user authentication, posts, likes, comments, follow/unfollow,
+and messaging.
+
+**Tech:** Python · Flask · SQLite · HTML · CSS
+
+### YouTube Transcription & Summarization
+
+A Python application that converts YouTube audio into text,
+generates summaries, supports translation, and produces
+multilingual text-to-speech output.
+
+**Tech:** Python · Whisper · Transformers · NLP
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Full-Stack Development
+- Machine Learning
+- Deep Learning
+
+## Connect
+
+[GitHub](https://github.com/bshreyakamath)
+
+
+⭐ Feel free to explore my repositories and projects.
