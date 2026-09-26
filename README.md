@@ -1,4 +1,4 @@
-# Shreya Kamath 
+# B. Shreya Kamath 
 
 ### Artificial Intelligence & Machine Learning Student | Full-Stack Development
 
