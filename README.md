@@ -61,6 +61,14 @@ multilingual text-to-speech output.
 
 **Tech:** Python · Whisper · Transformers · NLP
 
+### KeyTunes Virtual Piano
+
+KeyTunes is a browser-based virtual piano developed using HTML, CSS, and JavaScript. 
+It allows users to play piano notes using their computer keyboard, 
+with interactive key highlighting for a simple and engaging experience.
+
+**Tech:** HTML · CSS · JavaScript
+
 ## Currently Learning
 
 - Data Structures & Algorithms
